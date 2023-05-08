@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-java-class-to-convert-fahrenheit-temperature-to-centigrade
+<br>
+Write a Java class to convert Fahrenheit temperature to Centigrade. Declare a variable to hold the normal human body temperature of 98.6 degrees Fahrenheit. A Centigrade temperature can be calculated by subtracting 32 from the Fahrenheit value and multiplying the result by 5/9. Save the class as TempConversion.java. Show comments throughout
